@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonette Mae P. Perez</h1>
 <h3 align="center">from batch 2022, taking Computer Science</h3>
+<h3 align="center">INTJ, Taurus</h3>
 
 - 📫 How to reach me **apperez4@up.edu.ph**
 

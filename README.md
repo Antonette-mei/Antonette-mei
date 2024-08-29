@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **apperez4@up.edu.ph**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Hobbies:</h3>
 <p align="left">
 </p>
 
